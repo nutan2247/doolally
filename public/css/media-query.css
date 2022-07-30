@@ -1,0 +1,358 @@
+@media screen and (max-width: 1360px) {
+    .d_locat_box {
+        width: 160px;
+        height: 160px;
+    }
+    .d_hangout_box .d_product_img {
+        height: 150px;
+    }
+    .g-add form {
+        display: block !important;
+        text-align: center;
+    }
+    .delete {
+        margin-left: 0;
+        display: block;
+        margin-top: 4px;
+    }
+    .d_find_event .d_hangout_box .d_product_img {
+        height: 150px;
+        width: 150px;
+    }
+    .d_feat_event_title {
+        font-size: 16px;
+        margin-bottom: 3px;
+        display: -webkit-box;
+        -webkit-line-clamp: 1;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    .d_feat_event_name {
+        font-size: 14px;
+    }
+    .d_feat_event_list li {
+        font-size: 13px;
+    }
+    .d_feat_event_list li img {
+        width: 19px;
+    }
+    .order-typebox {
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+    .d_locat_box {
+        width: 126px;
+        height: 126px;
+    }
+    .d_product_img {
+        height: 100px;
+    }
+    .d_locat_cnt img {
+        width: 30px;
+    }
+    .d_locat_name {
+        font-size: 12px;
+        line-height: 14px;
+    }
+    .d_cnt_locat {
+        font-size: 11px;
+    }
+    .d_main_title {
+        font-size: 18px;
+    }
+    .d_main_sub_title {
+        font-size: 16px;
+    }
+    .d_days_iner_box figure {
+        width: 60px;
+        height: 40px;
+    }
+    .d_days_subtitle {
+        font-size: 13px;
+    }
+    .d_find_event .d_hangout_box .d_product_img {
+        height: 120px;
+        padding: 0;
+        width: 120px;
+    }
+    .d_sub_total_cnt h5 span {
+        font-size: 17px;
+        line-height: 27px;
+        margin-left: 0;
+    }
+    .d_order_list_name li p {
+        font-size: 13px;
+        line-height: 19px;
+        margin: 4px 0 0 0;
+    }
+    .d_comn_btn {
+        padding: 10px 20px;
+        font-size: 13px;
+    }
+    .d_beer_product_cnt_title {
+        font-size: 16px;
+    }
+    .p_gray {
+        font-size: 13px;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .d_product_img {
+        height: 100px;
+    }
+    .d_art_craft span {
+        padding: 11px 10px;
+        margin-bottom: 15px;
+    }
+    .d_art_craft span:last-child {
+        margin-bottom: 0;
+    }
+    .fixed-tab-header {
+        top: 92px;
+    }
+    .fixed-header {
+        padding: 6px 0 25px;
+    }
+}
+
+@media screen and (max-width:992px) {
+    .d_product_img {
+        height: auto;
+    }
+    .d_locat_box {
+        width: 190px;
+        height: 190px;
+    }
+    .d_main_title {
+        font-size: 18px;
+    }
+    .d_main_sub_title {
+        font-size: 16px;
+    }
+    .d_hangout .d_main_title {
+        font-size: 20px;
+    }
+    .g-add form {
+        display: flex !important;
+    }
+    .delete {
+        margin-left: 13px;
+        margin-top: 0;
+    }
+    .d_find_event .d_hangout_box .d_product_img {
+        height: 120px;
+        width: 120px;
+    }
+    .event_dtl_footer {
+        text-align: center;
+    }
+    .black_heading .d_main_sub_title {
+        font-size: 20px !important;
+    }
+    .tab-header a {
+        margin: 0px 3px;
+        top: 0;
+        font-size: 15px;
+        min-width: 158px;
+    }
+    .order-typebox {
+        padding: 3px 0;
+    }
+    .button-switch {
+        top: -16px;
+    }
+    .order-typebox {
+        font-size: 16px;
+    }
+    .tab-header a span {
+        width: 35px;
+        height: 35px;
+        line-height: 34px;
+    }
+    .tab-header a span img {
+        width: 20px;
+    }
+    .d_main_panel {
+        padding: 20px 0;
+    }
+    .h-info-box {
+        position: absolute;
+        top: 0;
+        right: 16px;
+    }
+    .h-socalbox .fa {
+        font-size: 20px;
+        margin-right: 10px;
+    }
+    .h-num {
+        padding-left: 10px;
+        font-size: 0;
+    }
+    .fixed-header {
+        padding: 12px 0 16px;
+    }
+    .fixed-tab-header {
+        top: 14px;
+        left: -20px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .d_hangout .d_main_title {
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .d_main_title {
+        line-height: 20px;
+    }
+    .d_locat_box {
+        width: 220px;
+        height: 220px;
+    }
+    .d_hangout_box .d_product_img {
+        height: auto;
+    }
+    .d_event_expert {
+        display: block;
+    }
+    .d_event_expert a {
+        display: inline-block;
+        width: 49%;
+    }
+    .d_find_event .d_hangout_box .d_product_img {
+        margin: 0 auto;
+    }
+    .d_find_event .d_main_sub_title {
+        font-size: 20px;
+    }
+    .d_beer_product_img figure {
+        height: auto;
+    }
+    .coupon_panel .d_sub_total_cnt h5 span {
+        font-size: 20px;
+    }
+    .coupon_panel .d_sub_total_cnt p {
+        font-size: 14px;
+    }
+    .d_custome_raido {
+        font-size: inherit;
+    }
+    .d_comn_btn {
+        padding: 12px 20px;
+        font-size: 16px;
+    }
+    .d_featured_events figure {
+        height: auto;
+    }
+    .d_create_event {
+        width: 100%;
+    }
+    .d_comn_btn {
+        width: 100%;
+    }
+    .d_event_list {
+        column-count: 1;
+        margin-top: 25px;
+    }
+    .container-fluid {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .d_art_craft span {
+        display: block;
+    }
+    .tab-header a {
+        min-width: 49%;
+    }
+    .tab-header a {
+        margin: 0;
+    }
+    .tab-header a:first-child {
+        margin-right: 11px;
+    }
+    .order-typebox {
+        font-size: 16px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .button-switch {
+        top: -16px;
+    }
+    .h-num {
+        font-size: 0;
+    }
+    .hero-panel {
+        padding: 20px 0;
+    }
+    .h-info-box {
+        position: absolute;
+        top: 0;
+        right: 16px;
+    }
+    .fixed-header .h-info-box {
+        top: -31px;
+    }
+    .h-logo img {
+        width: 94px;
+    }
+    .serachbar .form-control {
+        padding-right: 45px;
+    }
+    .serachbar button {
+        right: 17px;
+    }
+    .h-socalbox .fa {
+        font-size: 20px;
+        margin-right: 10px;
+    }
+    .h-num {
+        padding-left: 10px;
+    }
+    .h-num img {
+        width: 14px;
+        margin-right: 0;
+    }
+    .fixed-tab-header {
+        top: 70px;
+        left: 0;
+        padding: 0 18px;
+    }
+    .fixed-header {
+        padding: 12px 0 70px;
+    }
+    .fixed-tab-header a {
+        padding: 4px 10px !important;
+        font-size: 15px !important;
+    }
+    .fixed-tab-header a span {
+        width: 36px !important;
+        height: 36px !important;
+        line-height: 35px !important;
+    }
+    .fixed-tab-header a span img {
+        width: 20px !important;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .d_locat_box {
+        width: 120px;
+        height: 120px;
+    }
+    .d_locat_cnt img {
+        width: 24px;
+    }
+    .d_locat_name {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .d_cnt_locat {
+        font-size: 11px;
+        line-height: 15px;
+    }
+}
